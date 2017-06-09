@@ -1,0 +1,73 @@
+/**/
+
+.weekedBestCss {
+        background-color: #62CC65;
+        border: 1px solid black;
+        height: 130px;
+        margin: 10px;
+        padding: 0px;
+}
+    
+.dailyBestCss {
+        background: #62CC65;
+        border: 1px solid black;
+        margin: 10px;
+        height: 150px;
+}
+
+#dailyBestCss1 {
+        background: #FF92AD; 
+        border-bottom: 1px solid black;
+        height: 30px;
+        line-height: 30px;
+}
+
+.dailyBestCss2 {
+    
+}
+
+.wantGenreBest>div {
+        background: #62CC65;
+        border: 1px solid black;
+        margin: 10px;
+        height: 150px;
+}
+
+#wantGenreBest1 {
+        background: #FF92AD; 
+        border-bottom: none;
+        margin-bottom: -10px;
+        height: 30px;
+        line-height: 30px;
+}
+
+
+
+.sideMenu>div {
+        display: list-item;
+        text-align: center;
+        background-color: #FFBD2B;
+        height: 40px;
+        line-height: 40px;
+        margin: 5px;
+        font-size: 20px;
+        font-weight: 600;
+}
+
+.loginBuuton {
+        height: 25px;
+        line-height: 15px;
+        font-size: 15px;
+        margin: 10px;
+}
+
+.favoriteTableCss>td {
+        border-bottom: 1px solid red;
+}
+
+.allGenreTableCss {
+        margin: 10px;
+        text-align: center;
+        line-height: 90px;
+}
+
